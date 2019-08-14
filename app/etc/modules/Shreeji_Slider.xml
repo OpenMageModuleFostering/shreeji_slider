@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Shreeji_Slider>
+		    <active>true</active>
+		    <codePool>community</codePool>		   
+		</Shreeji_Slider>
+	</modules>
+</config>
