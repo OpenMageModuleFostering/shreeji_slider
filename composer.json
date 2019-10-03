@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Shreeji_Slider",
+    "name": "OpenMageModuleFostering\/Shreeji_Slider",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Easy and Responsive Slider with Managing Different Option",
     "authors": [
-    {
-        "name": "Tarun Patel",
-        "email": "tarun@shreeji-infosys.com"
-    }
-],
+        {
+            "name": "Tarun Patel",
+            "email": "tarun@shreeji-infosys.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
