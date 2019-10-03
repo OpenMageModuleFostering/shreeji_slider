@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Shreeji_Slider",
+    "name": "openmage-module-fostering\/shreeji_slider",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Easy and Responsive Slider with Managing Different Option",
     "authors": [
